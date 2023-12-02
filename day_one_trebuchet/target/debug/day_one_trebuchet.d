@@ -1,0 +1,1 @@
+C:\Users\SteeledShield\Desktop\not\ so\ important\Projects\AoC\ Day\ 1\day_one_trebuchet\target\debug\day_one_trebuchet.exe: C:\Users\SteeledShield\Desktop\not\ so\ important\Projects\AoC\ Day\ 1\day_one_trebuchet\src\main.rs
